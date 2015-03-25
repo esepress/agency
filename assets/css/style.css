@@ -293,7 +293,7 @@ a:hover, a:focus{
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
   border-color: #101010;
   margin: 0 auto;
-  max-width: 350px;
+  max-width: 370px;
 }
 
 .navbar-toggle {
@@ -529,7 +529,7 @@ ul, .list.custom-list ul {
 	text-align: left;
 }
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover {
-  color: #B8B8B8 !important;
+  color: #362F2F !important;
   border-radius: 0px;
   /* background: #3d84e6; */
 }
