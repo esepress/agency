@@ -128,10 +128,6 @@ i.fa.fa-star {
 	-webkit-box-shadow: 0px 1px 4px rgba(0,0,0, 0.10);
 }
 
- .form-btn:hover {
-	background: #287676;
-	color: white;
-}
 
   .form-btn:active{
     opacity: 0.9;
