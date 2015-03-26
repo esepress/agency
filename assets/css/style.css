@@ -7,7 +7,7 @@ body {
     color: #6E6E6E;
 }
 i.fa.fa-star {
-  font-size: 25px;
+  font-size: 18px;
   color: rgb(50, 164, 173);
 }
 /*-------------------------------------------------------------------------------------------------------------------------------*/
@@ -160,6 +160,7 @@ p.about-text {
 }
 h3.cta-text.text-center {
   margin: 95px 0 60px;
+  line-height: 1.83em;
 }
  /* ---------------------------------------------------------------------- */
 /*  Portfolio
@@ -268,7 +269,7 @@ li.inline-text {
 .icon-text {
   display: inline-block;
   text-indent: 10px;
-  font-size: 20px;
+  font-size: 18px;
 }
 /*General*/
 h1, h2, h3, h4, h5, h6 {
