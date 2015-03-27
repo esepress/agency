@@ -608,13 +608,13 @@ ul.list-spaces li {
 	margin-bottom: 10px;
 }
 /* Helpers */
-@media (max-width:799px){
+@media (max-width:650px){
 	.navigation {
-  float: left;
-  position: relative;
-  top: -28px;
-  left:-20px;
-}
+	  float: left;
+	  position: relative;
+	  top: -28px;
+	  left:-20px;
+	}
 }
 
  ul.menu{
