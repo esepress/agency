@@ -522,7 +522,7 @@ h4.item-title.text-center {
 .infos-button:hover {
   background: rgba( 255, 255, 255, 0.2 );
   border: 2px solid transparent;
-  padding: 4px 34px 6px 14px !important;
+  padding: 6px 34px 6px 14px !important;
   transition: .3s;
 }
 .infos-button {
