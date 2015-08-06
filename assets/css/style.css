@@ -653,6 +653,11 @@ ul.list-spaces li {
 	color: #3d84e6;
 }
 
+.social p a {
+    font-size: 16px;
+    margin-left: 3px;
+}
+
 /* carousel */
 #quote-carousel {
 	padding: 0 10px 30px 10px;
